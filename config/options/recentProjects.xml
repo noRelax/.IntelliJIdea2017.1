@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:\zbcm_workspace\zb-server" />
+        <option value="F:\hadoop_workspace\Server" />
+        <option value="F:\hadoop_workspace\Server\news24h_repo" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:\zbcm_workspace\zb-server" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:\zbcm_workspace\zb-server" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:\hadoop_workspace\Server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4073.35" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="D:\IntelliJ IDEA Community Edition 2017.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1492944089398" />
+              <option name="buildTimestamp" value="1491504953162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\hadoop_workspace\Server\news24h_repo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-171.4073.35" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="D:\IntelliJ IDEA Community Edition 2017.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1492745874313" />
+              <option name="buildTimestamp" value="1491504942934" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\zbcm_workspace\zb-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4073.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\JetBrains\IntelliJ IDEA 2017.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1492951624583" />
+              <option name="buildTimestamp" value="1491502732728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/zbcm_workspace" />
+  </component>
+</application>

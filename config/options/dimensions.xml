@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="42" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="324" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="244" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="697" y="477" />
+    <location key="new project wizard.0.0.1366.768" x="308" y="0" />
+    <location key="EditParametersPopupWindow.0.0.1366.768" x="512" y="217" />
+    <location key="SettingsEditor.0.0.1366.768" x="116" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="0" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="286" y="12" />
+    <location key="StructurePopup.0.0.1366.768" x="458" y="148" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="655" height="276" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="728" />
+    <size key="SettingsEditor.0.0.1366.768" width="1038" height="728" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="773" height="705" />
+    <size key="StructurePopup.0.0.1366.768" width="432" height="392" />
+  </component>
+</application>

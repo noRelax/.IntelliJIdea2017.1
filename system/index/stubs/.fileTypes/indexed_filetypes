@@ -1,0 +1,21 @@
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619300
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619299
+CSS￿stub:com.intellij.psi.css.CssFileElementType,25￿1492951619298
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619297
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619296
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,-1667744581￿1492951619295
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619294
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,25￿1492951619293
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,19￿1492951619292
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1492951619291
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,35￿1492951619290
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,25￿1492951619289
+AspectJ￿stub:com.intellij.lang.aspectj.psi.stub.AjFileElementType,52￿1492951619288
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,4￿1492951619287
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619286
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,40￿1492951619285
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,25￿1492951619284
+spring.factories￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1492951619283
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1492951619282
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,5￿1492951619281
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1894065347￿1492951619280
